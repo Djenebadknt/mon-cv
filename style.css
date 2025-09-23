@@ -1,0 +1,13 @@
+body {
+  background-image: url(https://i.redd.it/pxuklmmo7b351.jpg);
+  font-family: small-caps;
+}
+
+h1, p {
+  text-align: center;
+}#menu {
+  width: 900px;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+}
